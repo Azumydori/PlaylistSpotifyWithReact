@@ -38,7 +38,6 @@ const SongPlaylist = () => {
 						name: tune.name,
 						position: index
 					});
-					console.log(tune.url);
 				}}>
 				{tune.name}
 			</li>
